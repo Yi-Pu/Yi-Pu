@@ -1,4 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m a graduate student at Carnegie Mellon University.
-- 🌱 I’m currently learning statistical computing.
+Master's Student @ CMU | Department of Statistics & Data Science
